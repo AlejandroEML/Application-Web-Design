@@ -24,4 +24,16 @@ Markdown is a lightweight markup language that is widely used for formatting pla
 
 ![Alt Text]([image-url.jpg](https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)
 
+# Comands
+Check the status of a local repository.
+
+Add individual files or globally.
+
+Add comments to the commit.
+
+Upload your changes to the remote repository.
+
+Create, browse, and delete branches.
+
+Roll back a repository to a specific commit.
 
