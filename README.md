@@ -22,18 +22,27 @@ Markdown is a lightweight markup language that is widely used for formatting pla
 - Viñeta
 > Blockquote.
 
-![Alt Text]([image-url.jpg](https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)
+![Image]([image-url.jpg](https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)
 
 # Comands
-Check the status of a local repository.
+- Check the status of a local repository.
+git status
 
-Add individual files or globally.
+- Add individual files or globally.
+git add filename
+git add .
 
-Add comments to the commit.
+- Add comments to the commit.
+git commit -m " "
 
-Upload your changes to the remote repository.
+- Upload your changes to the remote repository.
+git push origin branch_name
 
-Create, browse, and delete branches.
+- Create, browse, and delete branches.
+git branch "name"
+git branch
+git branch -d "name"
 
-Roll back a repository to a specific commit.
+- Roll back a repository to a specific commit.
+git reset --hard commit_hash
 
