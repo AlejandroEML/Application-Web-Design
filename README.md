@@ -15,10 +15,10 @@ Markdown is a lightweight markup language that is widely used for formatting pla
 
 # Tags
 #Tags
-    #Title
-    ===============
-    **Bold**
-    *Italic*
-    1. Lista
-    - Viñeta
-    > Blockquote.
+#Title
+===============
+**Bold**
+*Italic*
+1. Lista
+- Viñeta
+> Blockquote.
