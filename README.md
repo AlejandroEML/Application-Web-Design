@@ -21,7 +21,7 @@ Markdown is a lightweight markup language that is widely used for formatting pla
 1. Lista
 - Viñeta
 > Blockquote.
-| Header 1 | Header 2 |
-|----------|----------|
-| Content 1| Content 2|
+
+![Alt Text]([image-url.jpg](https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)
+
 
