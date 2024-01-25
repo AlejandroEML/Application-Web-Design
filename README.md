@@ -24,7 +24,7 @@ Markdown is a lightweight markup language that is widely used for formatting pla
 
 ![Image]([image-url.jpg](https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)https://www.shutterstock.com/image-vector/angry-wolf-head-line-art-600nw-2263982357.jpg)
 
-# Comands
+# Commands
 - Check the status of a local repository.
 git status
 
